@@ -7,6 +7,10 @@
 
 - 🌱 I’m currently learning **JavaScript.**
 
+- 👯 I’m looking to collaborate on **Web development.**
+
+- 👀 I’m interested in **Full Stack Web development.**
+
 - 📫 How to reach me **sairagfx78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
